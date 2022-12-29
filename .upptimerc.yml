@@ -1,16 +1,174 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: This me # Your GitHub organization or username, where this repository lives
+repo: Up and down # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # Anime 
+  - name: Alime 47
+    url: https://anime47.com/
+  - name: Alime pro
+    url: http://animevietsub.pro/
+  - name: Alime tvn
+    url: https://animetvn.info/
+  - name: Alime 4u
+    url: https://ani4u.org/
+  - name: Vuighe
+    url: https://vuighe.net/
+  - name: clipanime
+    url: https://clipanime.com/
+    
+  # Fansub    
+  - name: clip-sub
+    url: https://clip-sub.com/
+  - name: yami-sora
+    url: https://www.yami-sora.org/
+  - name: relieftranslation
+    url: https://relieftranslation.com/anime/
+  - name: Yoakefs
+    url: https://yoakefs.com/
+  - name: kanefusafs
+    url: https://www.kanefusafs.net/
+  - name: kimi
+    url: https://kimi-fansub.blogspot.com/
+  - name: smfs
+    url: https://sm-f.blogspot.com/
+  - name: a4vf
+    url: https://a4vf.com/
+  - name: koga
+    url: http://koga-fansub.net/
+  - name: vnfs
+    url: https://vnfs-team.com/
+  - name: cabfansub
+    url: https://cabfansub.com/
+  - name: crazysol
+    url: https://crazysol.blogspot.com/
+  - name: zingfansub
+    url: https://zingfansub.ws/zfs/
+  - name: olshiro
+    url: http://olshiro.net/load/vietsub/10
+  - name: yureisub
+    url: https://www.yureisub.com/
+  - name: ashirogifs
+    url: https://ashirogifs.blogspot.com/
+  - name: jikanfansub
+    url: https://jikanfansub.wordpress.com/
+  - name: vnjp - doremonfs
+    url: http://www.vnjp.us/
+  - name: wakanafs
+    url: https://wakanafs.blogspot.com/
+  - name: waya
+    url: http://waya.itea.vn/
+  - name: nyaafs
+    url: http://nyaa-fansub.net/
+  - name: conanvnfansub
+    url: https://conanvnfansub.wordpress.com/
+  - name: vnkeyfc
+    url: https://vnkeyfc.com/
+  - name: otakumano
+    url: https://otakumano4fan.blogspot.com/
+  - name: pokemonviet
+    url: https://pokemonviet.com/
+  - name: a4vf
+    url: https://a4vf.net/
+  - name: Nishiro Fansub
+    url: https://www.notion.so/Animulism-342a41414b0b43c9aa5b10e242f718a1
+  - name: 
+    url:
+  - name: 
+    url:
+  - name: 
+    url:
+    
+  # Live action    
+  - name: nekofansub
+    url: https://nekofansubblog.wordpress.com/
+  - name: flyfansub
+    url: https://flyfansub.blogspot.com/
+  - name: luclacmeo
+    url: https://luclacmeo.wordpress.com/
+  - name: mochifansub
+    url: https://mochifansub.home.blog/
+  - name: relnguyen
+    url: https://relnguyen.blogspot.com/
+  - name: unmeifs
+    url: https://unmeifs.blogspot.com/
+  - name: Haruki Fansub
+    url: https://www.facebook.com/profile.php?id=100064495554663
+  - name: futarisubteam
+    url: https://futarisubteam.wordpress.com/
+  - name: amechanfansub
+    url: https://amechanfansub.wordpress.com/
+  - name: kokocon
+    url: http://fansub.kokocon.net/
+    
+  # Light novel    
+  - name: Hako
+    url: https://ln.hako.vn/
+  - name: Hako again
+    url: https://docln.net/
+  - name: shinigamilnteam
+    url: https://shinigamilnteam.com/
+  - name: baka-tsuki
+    url: https://www.baka-tsuki.org/project/index.php?title=Category:Light_novel_(Vietnamese)
+  - name: valvrareteam
+    url: http://valvrareteam.com/
+  - name: sonako
+    url: https://sonako.fandom.com/vi/wiki/Sonako_Light_Novel
+  - name: otakusan
+    url: https://otakusan.net/LightNovel
+  - name: meobietbay
+    url: https://meobietbay.com/overlord/
+  - name: thatnovelcorner
+    url: https://thatnovelcorner.com/light-novels/
+  - name: novelupdates
+    url: https://www.novelupdates.com/
+  - name: dwrteam
+    url: https://dwrteam.blogspot.com/
+  - name: zennomi
+    url: https://zennomi.fandom.com/wiki/Zennomi_Wiki
+  - name: Zennomi
+    url: https://www.facebook.com/Zennomi
+  - name: Zennomi again
+    url: https://zenno.moe/
+  - name: Đứa biết nhiều nhất về Light Novel ở Việt Nam
+    url: https://www.facebook.com/NaviRanobe/
+    
+  # Film    
+  - name: Xemphim club
+    url: https://xemphim.club/
+  - name: Xemphim club again
+    url: https://phimtea.com/
+    
+  # Blog tech    
+  - name: Pikalog
+    url: https://kipalog.com/
+  - name: Vaiblo
+    url: https://viblo.asia/followings
+    
+  # Torrent    
+  - name: kokocon
+    url: https://tracker.kokocon.net/
+#   - name: nyaa se
+#     url: https://sukebei.nyaa.si/
+    
+  # 4rum    
+  - name: Ve o zet
+    url: https://voz.vn/
+  - name: vnsharing
+    url: https://vnsharing.vn/
+  - name: vnsharing again
+    url: https://vnsharing.site/
+  - name: anime-sharing
+    url: https://www.anime-sharing.com/forum/
+  - name: kokocon
+    url: http://kokocon.net/
+  - name: hako.re
+    url: https://mangochan.site/
+  - name: myanimelist
+    url: https://myanimelist.net/
+  - name: anime-planet
+    url: https://www.anime-planet.com/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
