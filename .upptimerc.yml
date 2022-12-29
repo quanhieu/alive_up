@@ -175,16 +175,16 @@ status-website:
   introMessage: This is a repo check pages are alive **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: https://$OWNER.github.io/$REPO
-#       href: /
+      href: /
+#       href: https://$OWNER.github.io/$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-commitMessages:
-  commitAuthorName: "aliveup-bot"
-  commitAuthorEmail: "aliveup-bot@users.noreply.github.com"
+# commitMessages:
+#   commitAuthorName: "aliveup-bot"
+#   commitAuthorEmail: "aliveup-bot@users.noreply.github.com"
 
+# user-agent: aliveup-bot
 
-user-agent: aliveup-bot
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
