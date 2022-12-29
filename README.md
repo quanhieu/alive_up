@@ -97,10 +97,10 @@ Upptime is used by [**1,000+**](https://github.com/topics/upptime) people and te
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://This me.github.io/alive_up)
+[**Visit our status website →**](https://quanhieu.github.io/alive_up/)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [This me](https://This me.github.io/alive_up)
+- Code: [MIT](./LICENSE) © [This me](https://quanhieu.github.io/alive_up/)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
