@@ -34,7 +34,7 @@
     "timeMonth": 49,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 282
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 1116,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 281
     }
   },
@@ -166,7 +166,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 282
     }
   },
@@ -475,7 +475,7 @@
     "timeMonth": 872,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 281
     }
   },
@@ -496,7 +496,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 281
     }
   },
@@ -841,7 +841,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 281
     }
   },
@@ -904,19 +904,19 @@
     "url": "https://otakusan.net/LightNovel",
     "icon": "https://icons.duckduckgo.com/ip3/otakusan.net.ico",
     "slug": "otakusan",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 10609,
-    "timeDay": 10609,
-    "timeWeek": 10609,
-    "timeMonth": 10609,
-    "timeYear": 10609,
+    "status": "up",
+    "uptime": "98.55%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.55%",
+    "time": 11780,
+    "timeDay": 11780,
+    "timeWeek": 11780,
+    "timeMonth": 11780,
+    "timeYear": 11780,
     "dailyMinutesDown": {
-      "2022-12-30": 1
+      "2022-12-30": 8
     }
   },
   {
@@ -972,7 +972,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 280
     }
   },
@@ -1083,7 +1083,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 280
     }
   },
@@ -1176,7 +1176,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 280
     }
   },
@@ -1215,7 +1215,7 @@
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2022-12-30": 231,
+      "2022-12-30": 239,
       "2022-12-29": 280
     }
   },
