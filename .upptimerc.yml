@@ -167,7 +167,10 @@ sites:
     url: https://docln.net/
   - name: shinigamilnteam
     url: https://shinigamilnteam.com/
-    __dangerous__disable_verify_host: true
+    expectedStatusCodes:
+    - 200
+    - 403
+    - 503
   - name: baka-tsuki
     url: https://www.baka-tsuki.org/project/index.php?title=Category:Light_novel_(Vietnamese)
   - name: valvrareteam
