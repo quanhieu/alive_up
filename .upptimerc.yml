@@ -167,10 +167,7 @@ sites:
     url: https://docln.net/
   - name: shinigamilnteam
     url: https://shinigamilnteam.com/
-    expectedStatusCodes:
-    - 200
-    - 403
-    - 503
+    __dangerous__insecure: true
   - name: baka-tsuki
     url: https://www.baka-tsuki.org/project/index.php?title=Category:Light_novel_(Vietnamese)
   - name: valvrareteam
@@ -252,7 +249,7 @@ status-website:
   baseUrl: /alive_up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  theme: ocean # light, dark, night or ocean
+  theme: night # light, dark, night or ocean
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a repo check pages are alive **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
