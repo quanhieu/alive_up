@@ -34,7 +34,7 @@
     "timeMonth": 49,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 340,
       "2022-12-29": 282
     }
   },
@@ -80,18 +80,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/vuighe.net.ico",
     "slug": "vuighe",
     "status": "up",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 1116,
     "timeDay": 1116,
     "timeWeek": 1116,
     "timeMonth": 1116,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 340,
       "2022-12-29": 281
     }
   },
@@ -166,7 +166,7 @@
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 340,
       "2022-12-29": 282
     }
   },
@@ -475,7 +475,7 @@
     "timeMonth": 872,
     "timeYear": 872,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 341,
       "2022-12-29": 281
     }
   },
@@ -496,7 +496,7 @@
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 341,
       "2022-12-29": 281
     }
   },
@@ -841,7 +841,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 341,
       "2022-12-29": 281
     }
   },
@@ -904,19 +904,19 @@
     "url": "https://otakusan.net/LightNovel",
     "icon": "https://icons.duckduckgo.com/ip3/otakusan.net.ico",
     "slug": "otakusan",
-    "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "97.93%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 13237,
     "timeDay": 13237,
     "timeWeek": 13237,
     "timeMonth": 13237,
     "timeYear": 13237,
     "dailyMinutesDown": {
-      "2022-12-30": 12
+      "2022-12-30": 1
     }
   },
   {
@@ -972,7 +972,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 341,
       "2022-12-29": 280
     }
   },
@@ -1083,7 +1083,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 341,
       "2022-12-29": 280
     }
   },
@@ -1176,7 +1176,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 341,
       "2022-12-29": 280
     }
   },
@@ -1215,7 +1215,7 @@
     "timeMonth": 78,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2022-12-30": 311,
+      "2022-12-30": 341,
       "2022-12-29": 280
     }
   },
