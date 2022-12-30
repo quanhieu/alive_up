@@ -3,19 +3,72 @@ owner: quanhieu # Your GitHub organization or username, where this repository li
 repo: alive_up # The name of this repository
 
 sites:
+  # Blog tech    
+  - name: Pikalog
+    url: https://kipalog.com/
+  - name: Viblo
+    url: https://viblo.asia/followings
+  - name: devto
+    url: https://dev.to/
+  - name: dailydev
+    url: https://app.daily.dev/
+  - name: patternsJs
+    url: https://www.patterns.dev
+  - name: refactoring
+    url: https://refactoring.guru/design-patterns
+  - name: giaosucan
+    url: https://www.giaosucan.com/
+  - name: niviki
+    url: https://www.niviki.com
+  - name: duyet
+    url: https://blog.duyet.net/
+  - name: medium
+    url: https://medium.com/
+  - name: cuongquach
+    url: https://cuongquach.com/
+  - name: shipit
+    url: https://shipit.dev/posts/kubernetes-overview-diagrams.html
+  - name: cloudnativeviet
+    url: https://www.cloudnativeviet.net/documents/kubernetes/
+  - name: xuanthulab
+    url: https://xuanthulab.net/
+  - name: anonystick - Tips Javascript
+    url: https://anonystick.com/
+  - name: guru99
+    url: https://www.guru99.com/
+  - name: dnsimple
+    url: https://dnsimple.com/comics
+  - name: howhttps
+    url: https://howhttps.works/
+  - name: wizardzines
+    url: https://wizardzines.com/comics/
+  - name: 
+    url: 
+
   # Anime 
-  - name: Alime 47
+  - name: Ani 47
     url: https://anime47.com/
-  - name: Alime pro
+  - name: Ani pro
     url: http://animevietsub.pro/
-  - name: Alime tvn
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 503
+  - name: Ani tvn
     url: https://animetvn.info/
-  - name: Alime 4u
+  - name: Ani 4u
     url: https://ani4u.org/
-  - name: Vuighe
+  - name: Ani Vuighe
     url: https://vuighe.net/
-  - name: clipanime
+    __dangerous__disable_verify_host: true
+  - name: Ani clip
     url: https://clipanime.com/
+  - name: Ani pops
+    url: https://pops.vn/anime
+  - name: Ani muse
+    url: https://www.youtube.com/@MuseVietnam/featured
+  - name: 
+    url: 
     
   # Fansub    
   - name: clip-sub
@@ -24,6 +77,10 @@ sites:
     url: https://www.yami-sora.org/
   - name: relieftranslation
     url: https://relieftranslation.com/anime/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 503
   - name: Yoakefs
     url: https://yoakefs.com/
   - name: kanefusafs
@@ -60,6 +117,10 @@ sites:
     url: http://waya.itea.vn/
   - name: nyaafs
     url: http://nyaa-fansub.net/
+    expectedStatusCodes:
+    - 200
+    - 403
+    - 503
   - name: conanvnfansub
     url: https://conanvnfansub.wordpress.com/
   - name: vnkeyfc
@@ -72,6 +133,8 @@ sites:
     url: https://a4vf.net/
   - name: Nishiro Fansub
     url: https://www.notion.so/Animulism-342a41414b0b43c9aa5b10e242f718a1
+  - name: 
+    url: 
     
   # Live action    
   - name: nekofansub
@@ -94,6 +157,8 @@ sites:
     url: https://amechanfansub.wordpress.com/
   - name: kokocon
     url: http://fansub.kokocon.net/
+  - name: 
+    url: 
     
   # Light novel    
   - name: Hako
@@ -102,6 +167,7 @@ sites:
     url: https://docln.net/
   - name: shinigamilnteam
     url: https://shinigamilnteam.com/
+    __dangerous__disable_verify_host: true
   - name: baka-tsuki
     url: https://www.baka-tsuki.org/project/index.php?title=Category:Light_novel_(Vietnamese)
   - name: valvrareteam
@@ -116,6 +182,10 @@ sites:
     url: https://thatnovelcorner.com/light-novels/
   - name: novelupdates
     url: https://www.novelupdates.com/
+    expectedStatusCodes:
+    - 200
+    - 403
+    - 503
   - name: dwrteam
     url: https://dwrteam.blogspot.com/
   - name: zennomi
@@ -126,30 +196,38 @@ sites:
     url: https://zenno.moe/
   - name: Đứa biết nhiều nhất về Light Novel ở Việt Nam
     url: https://www.facebook.com/NaviRanobe/
+  - name: 
+    url: 
     
   # Film    
   - name: Xemphim club
     url: https://xemphim.club/
   - name: Xemphim club again
     url: https://phimtea.com/
-    
-  # Blog tech    
-  - name: Pikalog
-    url: https://kipalog.com/
-  - name: Vaiblo
-    url: https://viblo.asia/followings
+  - name: 
+    url: 
     
   # Torrent    
   - name: kokocon
     url: https://tracker.kokocon.net/
-#   - name: nyaa se
-#     url: https://sukebei.nyaa.si/
+  - name: 
+    url: 
+  # - name: nyaa se
+  #   url: https://sukebei.nyaa.si/
     
   # 4rum    
   - name: Ve o zet
     url: https://voz.vn/
+    expectedStatusCodes:
+    - 200
+    - 403
+    - 503
   - name: vnsharing
     url: https://vnsharing.vn/
+    expectedStatusCodes:
+    - 200
+    - 403
+    - 503
   - name: vnsharing again
     url: https://vnsharing.site/
   - name: anime-sharing
@@ -162,6 +240,8 @@ sites:
     url: https://myanimelist.net/
   - name: anime-planet
     url: https://www.anime-planet.com/
+  - name: 
+    url: 
     
 
 status-website:
@@ -171,14 +251,23 @@ status-website:
   baseUrl: /alive_up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
+  theme: ocean # light, dark, night or ocean
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a repo check pages are alive **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-#       href: https://$OWNER.github.io/$REPO
+      # href: https://$OWNER.github.io/$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  # workflowSchedule:
+  #   graphs: "0 0 * * *"
+  #   responseTime: "0 23 * * *"
+  #   staticSite: "0 1 * * *"
+  #   summary: "0 0 * * *"
+  #   updateTemplate: "0 0 * * *"
+  #   updates: "0 3 * * *"
+  #   uptime: "0 */1 * * *"
 
 # commitMessages:
 #   commitAuthorName: "aliveup-bot"
