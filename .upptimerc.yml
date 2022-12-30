@@ -42,8 +42,8 @@ sites:
     url: https://howhttps.works/
   - name: wizardzines
     url: https://wizardzines.com/comics/
-  - name: 
-    url: 
+  # - name: 
+  #   url: 
 
   # Anime 
   - name: Ani 47
@@ -67,8 +67,8 @@ sites:
     url: https://pops.vn/anime
   - name: Ani muse
     url: https://www.youtube.com/@MuseVietnam/featured
-  - name: 
-    url: 
+  # - name: 
+  #   url: 
     
   # Fansub    
   - name: clip-sub
@@ -133,8 +133,8 @@ sites:
     url: https://a4vf.net/
   - name: Nishiro Fansub
     url: https://www.notion.so/Animulism-342a41414b0b43c9aa5b10e242f718a1
-  - name: 
-    url: 
+  # - name: 
+  #   url: 
     
   # Live action    
   - name: nekofansub
@@ -157,8 +157,8 @@ sites:
     url: https://amechanfansub.wordpress.com/
   - name: kokocon
     url: http://fansub.kokocon.net/
-  - name: 
-    url: 
+  # - name: 
+  #   url: 
     
   # Light novel    
   - name: Hako
@@ -196,8 +196,8 @@ sites:
     url: https://zenno.moe/
   - name: Đứa biết nhiều nhất về Light Novel ở Việt Nam
     url: https://www.facebook.com/NaviRanobe/
-  - name: 
-    url: 
+  # - name: 
+  #   url: 
     
   # Film    
   - name: Xemphim club
@@ -210,8 +210,6 @@ sites:
   # Torrent    
   - name: kokocon
     url: https://tracker.kokocon.net/
-  - name: 
-    url: 
   # - name: nyaa se
   #   url: https://sukebei.nyaa.si/
     
@@ -240,8 +238,8 @@ sites:
     url: https://myanimelist.net/
   - name: anime-planet
     url: https://www.anime-planet.com/
-  - name: 
-    url: 
+  # - name: 
+  #   url: 
     
 
 status-website:
