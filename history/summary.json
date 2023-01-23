@@ -427,11 +427,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vuighe.net.ico",
     "slug": "ani-vuighe",
     "status": "up",
-    "uptime": "56.86%",
+    "uptime": "56.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.86%",
-    "uptimeYear": "56.86%",
+    "uptimeMonth": "56.87%",
+    "uptimeYear": "56.87%",
     "time": 1185,
     "timeDay": 1128,
     "timeWeek": 1228,
@@ -875,7 +875,7 @@
     "timeMonth": 1451,
     "timeYear": 1451,
     "dailyMinutesDown": {
-      "2023-01-23": 833,
+      "2023-01-23": 840,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -1534,7 +1534,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-23": 833,
+      "2023-01-23": 841,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -1665,7 +1665,7 @@
     "timeMonth": 94,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2023-01-23": 833,
+      "2023-01-23": 841,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
       "2023-01-20": 1440,
@@ -1777,19 +1777,19 @@
     "url": "https://www.anime-planet.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.anime-planet.com.ico",
     "slug": "anime-planet",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 210,
     "timeDay": 158,
     "timeWeek": 177,
     "timeMonth": 210,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-01-23": 9
+      "2023-01-23": 1
     }
   }
 ]
