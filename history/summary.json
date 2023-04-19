@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-04-19": 523,
+      "2023-04-19": 530,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -534,7 +534,7 @@
     "uptime": "63.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.97%",
+    "uptimeMonth": "29.99%",
     "uptimeYear": "63.55%",
     "time": 1398,
     "timeDay": 2003,
@@ -1080,7 +1080,7 @@
     "uptime": "22.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.29%",
+    "uptimeMonth": "12.27%",
     "uptimeYear": "22.44%",
     "time": 4198,
     "timeDay": 0,
@@ -1088,7 +1088,7 @@
     "timeMonth": 5617,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-04-19": 523,
+      "2023-04-19": 530,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -1440,19 +1440,19 @@
     "url": "https://www.facebook.com/profile.php?id=100064495554663",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "haruki-fansub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 338,
-    "timeWeek": 339,
-    "timeMonth": 381,
+    "timeDay": 352,
+    "timeWeek": 347,
+    "timeMonth": 382,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2023-04-19": 3
+      "2023-04-19": 7
     }
   },
   {
@@ -1615,7 +1615,7 @@
     "status": "up",
     "uptime": "98.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.37%",
+    "uptimeWeek": "97.44%",
     "uptimeMonth": "94.27%",
     "uptimeYear": "98.41%",
     "time": 1770,
@@ -1793,19 +1793,19 @@
     "url": "https://zennomi.fandom.com/wiki/Zennomi_Wiki",
     "icon": "https://icons.duckduckgo.com/ip3/zennomi.fandom.com.ico",
     "slug": "zennomi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 259,
+    "timeDay": 261,
     "timeWeek": 264,
     "timeMonth": 292,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-04-19": 2
+      "2023-04-19": 7
     }
   },
   {
@@ -1813,19 +1813,19 @@
     "url": "https://www.facebook.com/Zennomi",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "zennomi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 331,
-    "timeDay": 259,
+    "timeDay": 261,
     "timeWeek": 264,
     "timeMonth": 292,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-04-19": 2
+      "2023-04-19": 7
     }
   },
   {
@@ -1884,7 +1884,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-19": 524,
+      "2023-04-19": 531,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -2120,7 +2120,7 @@
     "timeMonth": 67,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-04-19": 524,
+      "2023-04-19": 531,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
