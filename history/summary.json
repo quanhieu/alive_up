@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-04-19": 457,
+      "2023-04-19": 465,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -534,7 +534,7 @@
     "uptime": "63.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "29.83%",
+    "uptimeMonth": "29.84%",
     "uptimeYear": "63.53%",
     "time": 1398,
     "timeDay": 2003,
@@ -1080,7 +1080,7 @@
     "uptime": "22.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.44%",
+    "uptimeMonth": "12.42%",
     "uptimeYear": "22.45%",
     "time": 4198,
     "timeDay": 0,
@@ -1088,7 +1088,7 @@
     "timeMonth": 5617,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-04-19": 458,
+      "2023-04-19": 466,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -1440,10 +1440,10 @@
     "url": "https://www.facebook.com/profile.php?id=100064495554663",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "haruki-fansub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 407,
@@ -1451,7 +1451,9 @@
     "timeWeek": 336,
     "timeMonth": 381,
     "timeYear": 407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-19": 2
+    }
   },
   {
     "name": "futarisubteam",
@@ -1613,7 +1615,7 @@
     "status": "up",
     "uptime": "98.41%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.72%",
+    "uptimeWeek": "96.80%",
     "uptimeMonth": "94.27%",
     "uptimeYear": "98.41%",
     "time": 1770,
@@ -1652,18 +1654,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/otakusan.net.ico",
     "slug": "otakusan",
     "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "96.45%",
-    "uptimeYear": "97.60%",
+    "uptime": "97.49%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "96.47%",
+    "uptimeYear": "97.49%",
     "time": 19072,
-    "timeDay": 14276,
+    "timeDay": 14110,
     "timeWeek": 15106,
     "timeMonth": 14487,
     "timeYear": 19072,
     "dailyMinutesDown": {
-      "2023-04-19": 7,
       "2023-04-18": 31,
       "2023-04-17": 27,
       "2023-04-14": 182,
@@ -1699,7 +1700,7 @@
       "2023-02-25": 103,
       "2023-02-24": 124,
       "2023-02-23": 98,
-      "2023-02-22": 76
+      "2023-02-22": 258
     }
   },
   {
@@ -1879,7 +1880,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-19": 459,
+      "2023-04-19": 467,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
@@ -2115,7 +2116,7 @@
     "timeMonth": 67,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-04-19": 459,
+      "2023-04-19": 467,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
