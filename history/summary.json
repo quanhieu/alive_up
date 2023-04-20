@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-04-20": 164,
+      "2023-04-20": 171,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -475,19 +475,19 @@
     "url": "https://anime47.com/",
     "icon": "https://icons.duckduckgo.com/ip3/anime47.com.ico",
     "slug": "ani-47",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 2173,
-    "timeDay": 2469,
-    "timeWeek": 2159,
-    "timeMonth": 2076,
-    "timeYear": 2173,
+    "time": 2175,
+    "timeDay": 2424,
+    "timeWeek": 2183,
+    "timeMonth": 2085,
+    "timeYear": 2175,
     "dailyMinutesDown": {
-      "2023-04-20": 2
+      "2023-04-20": 7
     }
   },
   {
@@ -537,7 +537,7 @@
     "uptime": "63.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "32.44%",
+    "uptimeMonth": "32.46%",
     "uptimeYear": "63.80%",
     "time": 1405,
     "timeDay": 2166,
@@ -1083,7 +1083,7 @@
     "uptime": "22.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.82%",
+    "uptimeMonth": "9.80%",
     "uptimeYear": "22.29%",
     "time": 4198,
     "timeDay": 0,
@@ -1091,7 +1091,7 @@
     "timeMonth": 5448,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-04-20": 165,
+      "2023-04-20": 172,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -1885,7 +1885,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-20": 166,
+      "2023-04-20": 172,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
@@ -2123,7 +2123,7 @@
     "timeMonth": 68,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-04-20": 166,
+      "2023-04-20": 172,
       "2023-04-19": 1440,
       "2023-04-18": 1440,
       "2023-04-17": 1440,
