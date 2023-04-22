@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-04-22": 206,
+      "2023-04-22": 215,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -374,9 +374,9 @@
     "slug": "anonystick-tips-javascript",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "96.37%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "96.35%",
     "uptimeYear": "99.00%",
     "time": 1621,
     "timeDay": 1540,
@@ -384,7 +384,7 @@
     "timeMonth": 1474,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2023-04-22": 3,
+      "2023-04-22": 11,
       "2023-04-05": 539,
       "2023-04-04": 1051,
       "2023-01-25": 25
@@ -542,7 +542,7 @@
     "uptime": "64.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.11%",
+    "uptimeMonth": "39.13%",
     "uptimeYear": "64.45%",
     "time": 1409,
     "timeDay": 1864,
@@ -1089,7 +1089,7 @@
     "uptime": "21.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "3.29%",
+    "uptimeMonth": "3.27%",
     "uptimeYear": "21.89%",
     "time": 4198,
     "timeDay": 0,
@@ -1097,7 +1097,7 @@
     "timeMonth": 4387,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-04-22": 207,
+      "2023-04-22": 216,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -1672,8 +1672,8 @@
     "uptimeMonth": "96.79%",
     "uptimeYear": "97.64%",
     "time": 19009,
-    "timeDay": 15359,
-    "timeWeek": 15940,
+    "timeDay": 15080,
+    "timeWeek": 15995,
     "timeMonth": 14794,
     "timeYear": 19009,
     "dailyMinutesDown": {
@@ -1843,10 +1843,10 @@
     "url": "https://zenno.moe/",
     "icon": "https://icons.duckduckgo.com/ip3/zenno.moe.ico",
     "slug": "zennomi-again",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 396,
@@ -1855,6 +1855,7 @@
     "timeMonth": 328,
     "timeYear": 396,
     "dailyMinutesDown": {
+      "2023-04-22": 2,
       "2023-03-19": 232,
       "2023-02-05": 38
     }
@@ -1894,7 +1895,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-22": 208,
+      "2023-04-22": 217,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -2135,7 +2136,7 @@
     "timeMonth": 69,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-04-22": 208,
+      "2023-04-22": 217,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
