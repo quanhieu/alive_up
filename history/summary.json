@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-04-30": 1299,
+      "2023-04-30": 1305,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -497,19 +497,19 @@
     "url": "https://anime47.com/",
     "icon": "https://icons.duckduckgo.com/ip3/anime47.com.ico",
     "slug": "ani-47",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2146,
-    "timeDay": 2407,
-    "timeWeek": 1952,
-    "timeMonth": 2054,
-    "timeYear": 2146,
+    "time": 2150,
+    "timeDay": 2485,
+    "timeWeek": 2028,
+    "timeMonth": 2069,
+    "timeYear": 2150,
     "dailyMinutesDown": {
-      "2023-04-30": 2
+      "2023-04-30": 6
     }
   },
   {
@@ -559,7 +559,7 @@
     "uptime": "67.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "67.86%",
+    "uptimeMonth": "67.87%",
     "uptimeYear": "67.00%",
     "time": 1427,
     "timeDay": 0,
@@ -1122,7 +1122,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-04-30": 1299,
+      "2023-04-30": 1306,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -1931,7 +1931,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 1300,
+      "2023-04-30": 1306,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -2181,7 +2181,7 @@
     "timeMonth": 73,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2023-04-30": 1300,
+      "2023-04-30": 1306,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
