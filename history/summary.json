@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-04-30": 1284,
+      "2023-04-30": 1289,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -497,19 +497,19 @@
     "url": "https://anime47.com/",
     "icon": "https://icons.duckduckgo.com/ip3/anime47.com.ico",
     "slug": "ani-47",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2144,
-    "timeDay": 0,
-    "timeWeek": 1876,
-    "timeMonth": 2043,
-    "timeYear": 2144,
+    "time": 2146,
+    "timeDay": 2407,
+    "timeWeek": 1952,
+    "timeMonth": 2054,
+    "timeYear": 2146,
     "dailyMinutesDown": {
-      "2023-04-30": 2
+      "2023-04-30": 6
     }
   },
   {
@@ -556,11 +556,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ani4u.org.ico",
     "slug": "ani-4u",
     "status": "up",
-    "uptime": "66.99%",
+    "uptime": "67.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "67.82%",
-    "uptimeYear": "66.99%",
+    "uptimeMonth": "67.84%",
+    "uptimeYear": "67.00%",
     "time": 1427,
     "timeDay": 0,
     "timeWeek": 1708,
@@ -1015,7 +1015,7 @@
     "time": 1756,
     "timeDay": 670,
     "timeWeek": 716,
-    "timeMonth": 1277,
+    "timeMonth": 1168,
     "timeYear": 1756,
     "dailyMinutesDown": {
       "2023-03-31": 132,
@@ -1122,7 +1122,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-04-30": 1284,
+      "2023-04-30": 1290,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -1931,7 +1931,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-30": 1285,
+      "2023-04-30": 1291,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -2181,7 +2181,7 @@
     "timeMonth": 73,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2023-04-30": 1285,
+      "2023-04-30": 1291,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
