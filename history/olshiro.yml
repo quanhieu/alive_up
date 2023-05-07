@@ -1,7 +1,7 @@
 url: http://olshiro.net/load/vietsub/10
-status: up
-code: 200
-responseTime: 10599
-lastUpdated: 2023-05-07T11:25:58.295Z
+status: down
+code: 502
+responseTime: 19609
+lastUpdated: 2023-05-07T11:41:52.894Z
 startTime: Thu Dec 29 2022 19:18:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
