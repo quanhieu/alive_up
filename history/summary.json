@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-05-07": 659,
+      "2023-05-07": 672,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -571,7 +571,7 @@
     "uptime": "68.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.70%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "68.69%",
     "time": 1459,
     "timeDay": 2046,
@@ -1138,7 +1138,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-05-07": 660,
+      "2023-05-07": 673,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -1722,18 +1722,19 @@
     "url": "https://otakusan.net/LightNovel",
     "icon": "https://icons.duckduckgo.com/ip3/otakusan.net.ico",
     "slug": "otakusan",
-    "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.33%",
+    "status": "down",
+    "uptime": "97.95%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "96.25%",
-    "uptimeYear": "97.93%",
+    "uptimeYear": "97.95%",
     "time": 18859,
     "timeDay": 18224,
-    "timeWeek": 16188,
+    "timeWeek": 16230,
     "timeMonth": 16704,
     "timeYear": 18859,
     "dailyMinutesDown": {
+      "2023-05-07": 2,
       "2023-05-05": 52,
       "2023-05-03": 20,
       "2023-05-02": 52,
@@ -1777,7 +1778,7 @@
       "2023-03-05": 186,
       "2023-03-04": 215,
       "2023-03-03": 17,
-      "2023-03-02": 105
+      "2023-03-02": 75
     }
   },
   {
@@ -1962,7 +1963,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-07": 660,
+      "2023-05-07": 673,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
@@ -2220,7 +2221,7 @@
     "timeMonth": 95,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-05-07": 660,
+      "2023-05-07": 673,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
