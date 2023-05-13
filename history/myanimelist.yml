@@ -1,7 +1,7 @@
 url: https://myanimelist.net/
-status: down
-code: 503
-responseTime: 55
-lastUpdated: 2023-05-12T23:11:02.812Z
+status: up
+code: 200
+responseTime: 431
+lastUpdated: 2023-05-13T02:45:54.220Z
 startTime: Thu Dec 29 2022 19:20:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
