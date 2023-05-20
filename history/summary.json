@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-05-20": 975,
+      "2023-05-20": 991,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -900,9 +900,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "60.73%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "59.61%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.72%",
     "time": 2680,
     "timeDay": 1814,
@@ -910,7 +910,7 @@
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 566
+      "2023-05-20": 582
     }
   },
   {
@@ -1019,7 +1019,7 @@
     "status": "up",
     "uptime": "96.95%",
     "uptimeDay": "93.73%",
-    "uptimeWeek": "60.23%",
+    "uptimeWeek": "60.39%",
     "uptimeMonth": "88.56%",
     "uptimeYear": "96.95%",
     "time": 3473,
@@ -1174,7 +1174,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-05-20": 975,
+      "2023-05-20": 991,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1347,19 +1347,19 @@
     "url": "https://vnkeyfc.com/",
     "icon": "https://icons.duckduckgo.com/ip3/vnkeyfc.com.ico",
     "slug": "vnkeyfc",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.73%",
-    "time": 2624,
-    "timeDay": 2624,
-    "timeWeek": 2490,
-    "timeMonth": 2487,
-    "timeYear": 2624,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.72%",
+    "time": 2625,
+    "timeDay": 2694,
+    "timeWeek": 2513,
+    "timeMonth": 2495,
+    "timeYear": 2625,
     "dailyMinutesDown": {
-      "2023-05-20": 1,
+      "2023-05-20": 16,
       "2023-05-16": 19,
       "2023-05-01": 31,
       "2023-04-04": 99,
@@ -1416,9 +1416,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "60.71%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "59.59%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.72%",
     "time": 2680,
     "timeDay": 1814,
@@ -1426,7 +1426,7 @@
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 566
+      "2023-05-20": 582
     }
   },
   {
@@ -1784,7 +1784,7 @@
     "time": 18719,
     "timeDay": 12867,
     "timeWeek": 16191,
-    "timeMonth": 17181,
+    "timeMonth": 17163,
     "timeYear": 18719,
     "dailyMinutesDown": {
       "2023-05-20": 29,
@@ -2011,26 +2011,26 @@
     "url": "https://xemphim.club/",
     "icon": "https://icons.duckduckgo.com/ip3/xemphim.club.ico",
     "slug": "xemphim-club",
-    "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "49.52%",
-    "uptimeWeek": "59.61%",
-    "uptimeMonth": "90.43%",
-    "uptimeYear": "97.95%",
+    "status": "down",
+    "uptime": "97.96%",
+    "uptimeDay": "50.54%",
+    "uptimeWeek": "59.71%",
+    "uptimeMonth": "90.47%",
+    "uptimeYear": "97.96%",
     "time": 591,
     "timeDay": 261,
-    "timeWeek": 288,
+    "timeWeek": 290,
     "timeMonth": 591,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2023-05-20": 506,
+      "2023-05-20": 507,
       "2023-05-19": 643,
       "2023-05-18": 542,
       "2023-05-17": 436,
       "2023-05-16": 495,
       "2023-05-15": 720,
       "2023-05-14": 542,
-      "2023-05-13": 310
+      "2023-05-13": 288
     }
   },
   {
@@ -2160,7 +2160,7 @@
     "timeMonth": 100,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-05-20": 976,
+      "2023-05-20": 992,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
