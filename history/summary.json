@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-05-20": 908,
+      "2023-05-20": 951,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -332,7 +332,7 @@
     "uptimeYear": "99.13%",
     "time": 2729,
     "timeDay": 2033,
-    "timeWeek": 2334,
+    "timeWeek": 2294,
     "timeMonth": 2028,
     "timeYear": 2729,
     "dailyMinutesDown": {
@@ -899,18 +899,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/a4vf.com.ico",
     "slug": "a4vf",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "65.33%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.73%",
+    "uptimeDay": "62.33%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.73%",
     "time": 2680,
     "timeDay": 1814,
     "timeWeek": 2109,
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 499
+      "2023-05-20": 542
     }
   },
   {
@@ -1018,8 +1018,8 @@
     "slug": "olshiro",
     "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "89.33%",
-    "uptimeWeek": "59.66%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "60.00%",
     "uptimeMonth": "88.56%",
     "uptimeYear": "96.94%",
     "time": 3473,
@@ -1174,7 +1174,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-05-20": 909,
+      "2023-05-20": 952,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1414,18 +1414,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/a4vf.net.ico",
     "slug": "a4vf",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "65.31%",
-    "uptimeWeek": "95.04%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.73%",
+    "uptimeDay": "62.30%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.73%",
     "time": 2680,
     "timeDay": 1814,
     "timeWeek": 2109,
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 500
+      "2023-05-20": 543
     }
   },
   {
@@ -1778,12 +1778,12 @@
     "uptime": "97.78%",
     "uptimeDay": "97.76%",
     "uptimeWeek": "96.07%",
-    "uptimeMonth": "93.51%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "97.78%",
     "time": 18719,
     "timeDay": 12867,
-    "timeWeek": 16071,
-    "timeMonth": 17206,
+    "timeWeek": 16191,
+    "timeMonth": 17181,
     "timeYear": 18719,
     "dailyMinutesDown": {
       "2023-05-20": 29,
@@ -2010,26 +2010,26 @@
     "url": "https://xemphim.club/",
     "icon": "https://icons.duckduckgo.com/ip3/xemphim.club.ico",
     "slug": "xemphim-club",
-    "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "50.97%",
-    "uptimeWeek": "59.50%",
-    "uptimeMonth": "90.44%",
-    "uptimeYear": "97.95%",
+    "status": "down",
+    "uptime": "97.96%",
+    "uptimeDay": "50.82%",
+    "uptimeWeek": "59.60%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "97.96%",
     "time": 593,
     "timeDay": 265,
     "timeWeek": 289,
     "timeMonth": 593,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-05-20": 483,
+      "2023-05-20": 485,
       "2023-05-19": 643,
       "2023-05-18": 542,
       "2023-05-17": 436,
       "2023-05-16": 495,
       "2023-05-15": 720,
       "2023-05-14": 542,
-      "2023-05-13": 328
+      "2023-05-13": 310
     }
   },
   {
@@ -2159,7 +2159,7 @@
     "timeMonth": 100,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-05-20": 910,
+      "2023-05-20": 954,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
