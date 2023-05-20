@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-05-20": 650,
+      "2023-05-20": 658,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -900,9 +900,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "83.28%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "82.71%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.88%",
     "time": 2680,
     "timeDay": 1814,
@@ -910,7 +910,7 @@
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 241
+      "2023-05-20": 249
     }
   },
   {
@@ -1019,7 +1019,7 @@
     "status": "up",
     "uptime": "96.94%",
     "uptimeDay": "79.94%",
-    "uptimeWeek": "58.43%",
+    "uptimeWeek": "58.51%",
     "uptimeMonth": "88.56%",
     "uptimeYear": "96.94%",
     "time": 3473,
@@ -1174,7 +1174,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-05-20": 651,
+      "2023-05-20": 659,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1415,9 +1415,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "83.26%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "82.68%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.88%",
     "time": 2680,
     "timeDay": 1814,
@@ -1425,7 +1425,7 @@
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 241
+      "2023-05-20": 249
     }
   },
   {
@@ -1694,18 +1694,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shinigamilnteam.com.ico",
     "slug": "shinigamilnteam",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.58%",
     "time": 2361,
     "timeDay": 5643,
     "timeWeek": 3808,
     "timeMonth": 2662,
     "timeYear": 2361,
     "dailyMinutesDown": {
-      "2023-05-20": 6,
       "2023-02-13": 24,
       "2022-12-30": 560,
       "2022-12-29": 281
@@ -1783,7 +1782,7 @@
     "uptimeYear": "97.78%",
     "time": 18719,
     "timeDay": 14818,
-    "timeWeek": 15955,
+    "timeWeek": 15981,
     "timeMonth": 17249,
     "timeYear": 18719,
     "dailyMinutesDown": {
@@ -2011,11 +2010,11 @@
     "url": "https://xemphim.club/",
     "icon": "https://icons.duckduckgo.com/ip3/xemphim.club.ico",
     "slug": "xemphim-club",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "58.44%",
-    "uptimeWeek": "60.18%",
-    "uptimeMonth": "90.39%",
+    "uptimeDay": "58.72%",
+    "uptimeWeek": "60.23%",
+    "uptimeMonth": "90.40%",
     "uptimeYear": "97.94%",
     "time": 600,
     "timeDay": 266,
@@ -2023,7 +2022,7 @@
     "timeMonth": 600,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2023-05-20": 308,
+      "2023-05-20": 304,
       "2023-05-19": 643,
       "2023-05-18": 542,
       "2023-05-17": 436,
@@ -2160,7 +2159,7 @@
     "timeMonth": 100,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-05-20": 651,
+      "2023-05-20": 660,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
