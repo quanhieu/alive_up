@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-05-20": 411,
+      "2023-05-20": 418,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -783,12 +783,12 @@
     "status": "up",
     "uptime": "98.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "98.08%",
     "time": 919,
     "timeDay": 1053,
-    "timeWeek": 1265,
+    "timeWeek": 1034,
     "timeMonth": 2051,
     "timeYear": 919,
     "dailyMinutesDown": {
@@ -900,9 +900,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2680,
     "timeDay": 1814,
@@ -910,7 +910,7 @@
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 2
+      "2023-05-20": 9
     }
   },
   {
@@ -1018,7 +1018,7 @@
     "slug": "olshiro",
     "status": "up",
     "uptime": "96.94%",
-    "uptimeDay": "77.33%",
+    "uptimeDay": "77.81%",
     "uptimeWeek": "56.96%",
     "uptimeMonth": "88.56%",
     "uptimeYear": "96.94%",
@@ -1174,7 +1174,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-05-20": 412,
+      "2023-05-20": 419,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -1415,9 +1415,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 2680,
     "timeDay": 1814,
@@ -1425,7 +1425,7 @@
     "timeMonth": 2224,
     "timeYear": 2680,
     "dailyMinutesDown": {
-      "2023-05-20": 2
+      "2023-05-20": 9
     }
   },
   {
@@ -1776,9 +1776,9 @@
     "slug": "otakusan",
     "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "95.56%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "97.76%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "97.78%",
     "time": 18725,
     "timeDay": 15165,
@@ -1786,7 +1786,7 @@
     "timeMonth": 17268,
     "timeYear": 18725,
     "dailyMinutesDown": {
-      "2023-05-20": 35,
+      "2023-05-20": 29,
       "2023-05-19": 3,
       "2023-05-18": 16,
       "2023-05-17": 113,
@@ -1832,7 +1832,8 @@
       "2023-03-23": 59,
       "2023-03-22": 192,
       "2023-03-21": 169,
-      "2023-03-18": 32
+      "2023-03-18": 32,
+      "2023-03-15": 18
     }
   },
   {
@@ -2009,19 +2010,19 @@
     "url": "https://xemphim.club/",
     "icon": "https://icons.duckduckgo.com/ip3/xemphim.club.ico",
     "slug": "xemphim-club",
-    "status": "down",
+    "status": "up",
     "uptime": "97.88%",
-    "uptimeDay": "53.93%",
-    "uptimeWeek": "59.27%",
-    "uptimeMonth": "90.14%",
+    "uptimeDay": "54.02%",
+    "uptimeWeek": "59.21%",
+    "uptimeMonth": "90.13%",
     "uptimeYear": "97.88%",
-    "time": 609,
-    "timeDay": 235,
-    "timeWeek": 289,
-    "timeMonth": 609,
-    "timeYear": 609,
+    "time": 608,
+    "timeDay": 244,
+    "timeWeek": 290,
+    "timeMonth": 608,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2023-05-20": 224,
+      "2023-05-20": 229,
       "2023-05-19": 643,
       "2023-05-18": 542,
       "2023-05-17": 436,
@@ -2158,7 +2159,7 @@
     "timeMonth": 100,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-05-20": 413,
+      "2023-05-20": 419,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
