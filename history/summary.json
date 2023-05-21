@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-05-21": 217,
+      "2023-05-21": 225,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -429,7 +429,7 @@
     "time": 1600,
     "timeDay": 1269,
     "timeWeek": 1489,
-    "timeMonth": 1516,
+    "timeMonth": 1511,
     "timeYear": 1600,
     "dailyMinutesDown": {
       "2023-04-23": 229,
@@ -902,9 +902,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "13.33%",
-    "uptimeWeek": "87.62%",
-    "uptimeMonth": "97.15%",
+    "uptimeDay": "12.78%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "97.13%",
     "uptimeYear": "99.39%",
     "time": 2668,
     "timeDay": 833,
@@ -912,7 +912,7 @@
     "timeMonth": 2170,
     "timeYear": 2668,
     "dailyMinutesDown": {
-      "2023-05-21": 218,
+      "2023-05-21": 226,
       "2023-05-20": 1030
     }
   },
@@ -1022,7 +1022,7 @@
     "status": "up",
     "uptime": "96.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.00%",
+    "uptimeWeek": "67.08%",
     "uptimeMonth": "88.56%",
     "uptimeYear": "96.96%",
     "time": 3463,
@@ -1177,7 +1177,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-05-21": 218,
+      "2023-05-21": 226,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
@@ -1420,9 +1420,9 @@
     "slug": "a4vf",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "13.31%",
-    "uptimeWeek": "87.62%",
-    "uptimeMonth": "97.15%",
+    "uptimeDay": "12.76%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "97.13%",
     "uptimeYear": "99.39%",
     "time": 2668,
     "timeDay": 833,
@@ -1430,7 +1430,7 @@
     "timeMonth": 2170,
     "timeYear": 2668,
     "dailyMinutesDown": {
-      "2023-05-21": 218,
+      "2023-05-21": 226,
       "2023-05-20": 1030
     }
   },
@@ -2016,11 +2016,11 @@
     "url": "https://xemphim.club/",
     "icon": "https://icons.duckduckgo.com/ip3/xemphim.club.ico",
     "slug": "xemphim-club",
-    "status": "up",
+    "status": "down",
     "uptime": "97.92%",
-    "uptimeDay": "50.46%",
-    "uptimeWeek": "59.07%",
-    "uptimeMonth": "90.25%",
+    "uptimeDay": "51.95%",
+    "uptimeWeek": "59.22%",
+    "uptimeMonth": "90.28%",
     "uptimeYear": "97.92%",
     "time": 579,
     "timeDay": 318,
@@ -2028,7 +2028,7 @@
     "timeMonth": 579,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2023-05-21": 36,
+      "2023-05-21": 22,
       "2023-05-20": 766,
       "2023-05-19": 643,
       "2023-05-18": 542,
@@ -2166,7 +2166,7 @@
     "timeMonth": 100,
     "timeYear": 89,
     "dailyMinutesDown": {
-      "2023-05-21": 219,
+      "2023-05-21": 226,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
