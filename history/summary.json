@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-06-01": 941,
+      "2023-06-01": 949,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -933,7 +933,7 @@
     "uptime": "91.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.34%",
+    "uptimeMonth": "59.32%",
     "uptimeYear": "91.96%",
     "time": 2568,
     "timeDay": 918,
@@ -941,7 +941,7 @@
     "timeMonth": 1759,
     "timeYear": 2568,
     "dailyMinutesDown": {
-      "2023-06-01": 942,
+      "2023-06-01": 949,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1221,7 +1221,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-06-01": 942,
+      "2023-06-01": 949,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1477,7 +1477,7 @@
     "uptime": "91.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.34%",
+    "uptimeMonth": "59.32%",
     "uptimeYear": "91.96%",
     "time": 2568,
     "timeDay": 918,
@@ -1485,7 +1485,7 @@
     "timeMonth": 1759,
     "timeYear": 2568,
     "dailyMinutesDown": {
-      "2023-06-01": 942,
+      "2023-06-01": 949,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -1809,7 +1809,7 @@
     "status": "up",
     "uptime": "96.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.93%",
+    "uptimeWeek": "92.00%",
     "uptimeMonth": "88.83%",
     "uptimeYear": "96.65%",
     "time": 1781,
@@ -1853,18 +1853,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/otakusan.net.ico",
     "slug": "otakusan",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "97.40%",
-    "uptimeMonth": "94.98%",
-    "uptimeYear": "98.29%",
+    "uptime": "98.25%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "94.99%",
+    "uptimeYear": "98.25%",
     "time": 18557,
     "timeDay": 15195,
     "timeWeek": 16236,
     "timeMonth": 16242,
     "timeYear": 18557,
     "dailyMinutesDown": {
-      "2023-06-01": 26,
+      "2023-06-01": 19,
       "2023-05-31": 18,
       "2023-05-30": 66,
       "2023-05-27": 59,
@@ -1910,7 +1910,7 @@
       "2023-04-09": 16,
       "2023-04-07": 41,
       "2023-04-06": 55,
-      "2023-04-02": 18
+      "2023-04-02": 106
     }
   },
   {
@@ -2088,11 +2088,11 @@
     "url": "https://xemphim.club/",
     "icon": "https://icons.duckduckgo.com/ip3/xemphim.club.ico",
     "slug": "xemphim-club",
-    "status": "up",
+    "status": "down",
     "uptime": "98.48%",
-    "uptimeDay": "68.84%",
-    "uptimeWeek": "75.03%",
-    "uptimeMonth": "92.29%",
+    "uptimeDay": "68.74%",
+    "uptimeWeek": "75.01%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "98.48%",
     "time": 475,
     "timeDay": 601,
@@ -2100,7 +2100,7 @@
     "timeMonth": 475,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2023-06-01": 329,
+      "2023-06-01": 330,
       "2023-05-31": 365,
       "2023-05-30": 215,
       "2023-05-29": 251,
@@ -2110,7 +2110,7 @@
       "2023-05-25": 218,
       "2023-05-24": 537,
       "2023-05-23": 144,
-      "2023-05-22": 45
+      "2023-05-22": 28
     }
   },
   {
@@ -2244,7 +2244,7 @@
     "timeMonth": 173,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2023-06-01": 943,
+      "2023-06-01": 950,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
