@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-06-04": 710,
+      "2023-06-04": 717,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -303,18 +303,19 @@
     "url": "https://medium.com/",
     "icon": "https://icons.duckduckgo.com/ip3/medium.com.ico",
     "slug": "medium",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "89.36%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "89.34%",
     "uptimeMonth": "94.79%",
     "uptimeYear": "98.81%",
     "time": 85,
-    "timeDay": 97,
+    "timeDay": 92,
     "timeWeek": 80,
     "timeMonth": 84,
     "timeYear": 85,
     "dailyMinutesDown": {
+      "2023-06-04": 2,
       "2023-06-03": 218,
       "2023-06-02": 184,
       "2023-06-01": 217,
@@ -342,7 +343,7 @@
       "2023-04-28": 113,
       "2023-04-27": 59,
       "2023-04-26": 45,
-      "2023-04-25": 32
+      "2023-04-25": 17
     }
   },
   {
@@ -813,9 +814,9 @@
     "slug": "relieftranslation",
     "status": "down",
     "uptime": "97.49%",
-    "uptimeDay": "10.48%",
-    "uptimeWeek": "83.17%",
-    "uptimeMonth": "90.21%",
+    "uptimeDay": "9.97%",
+    "uptimeWeek": "83.10%",
+    "uptimeMonth": "90.20%",
     "uptimeYear": "97.49%",
     "time": 993,
     "timeDay": 3032,
@@ -823,7 +824,7 @@
     "timeMonth": 1397,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2023-06-04": 710,
+      "2023-06-04": 717,
       "2023-06-03": 971,
       "2023-05-28": 15,
       "2023-05-21": 42,
@@ -938,7 +939,7 @@
     "uptime": "90.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.00%",
+    "uptimeMonth": "49.99%",
     "uptimeYear": "90.29%",
     "time": 2551,
     "timeDay": 921,
@@ -946,7 +947,7 @@
     "timeMonth": 1676,
     "timeYear": 2551,
     "dailyMinutesDown": {
-      "2023-06-04": 710,
+      "2023-06-04": 717,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -992,8 +993,8 @@
     "status": "up",
     "uptime": "98.95%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.46%",
-    "uptimeMonth": "95.00%",
+    "uptimeWeek": "78.39%",
+    "uptimeMonth": "94.98%",
     "uptimeYear": "98.95%",
     "time": 3132,
     "timeDay": 1252,
@@ -1001,7 +1002,7 @@
     "timeMonth": 1217,
     "timeYear": 3132,
     "dailyMinutesDown": {
-      "2023-06-04": 710,
+      "2023-06-04": 717,
       "2023-06-03": 1440,
       "2023-06-02": 21,
       "2023-05-17": 20,
@@ -1232,7 +1233,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-06-04": 710,
+      "2023-06-04": 718,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -1491,7 +1492,7 @@
     "uptime": "90.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.00%",
+    "uptimeMonth": "49.99%",
     "uptimeYear": "90.29%",
     "time": 2551,
     "timeDay": 921,
@@ -1499,7 +1500,7 @@
     "timeMonth": 1676,
     "timeYear": 2551,
     "dailyMinutesDown": {
-      "2023-06-04": 710,
+      "2023-06-04": 718,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -2110,9 +2111,9 @@
     "slug": "xemphim-club",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "69.52%",
-    "uptimeWeek": "75.57%",
-    "uptimeMonth": "91.98%",
+    "uptimeDay": "70.55%",
+    "uptimeWeek": "75.71%",
+    "uptimeMonth": "91.95%",
     "uptimeYear": "98.44%",
     "time": 483,
     "timeDay": 549,
@@ -2120,7 +2121,7 @@
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2023-06-04": 332,
+      "2023-06-04": 317,
       "2023-06-03": 233,
       "2023-06-02": 352,
       "2023-06-01": 436,
@@ -2130,7 +2131,7 @@
       "2023-05-28": 479,
       "2023-05-27": 409,
       "2023-05-26": 385,
-      "2023-05-25": 54
+      "2023-05-25": 84
     }
   },
   {
@@ -2266,7 +2267,7 @@
     "timeMonth": 176,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2023-06-04": 711,
+      "2023-06-04": 718,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
