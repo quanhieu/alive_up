@@ -1,7 +1,7 @@
-url: https://tracker.kokocon.net/
-status: up
-code: 200
-responseTime: 121
-lastUpdated: 2023-09-15T11:20:26.093Z
+url: http://kokocon.net/
+status: down
+code: 500
+responseTime: 118
+lastUpdated: 2023-09-15T11:20:30.980Z
 startTime: 2022-12-29T19:19:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
