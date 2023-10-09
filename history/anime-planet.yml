@@ -1,7 +1,7 @@
 url: https://www.anime-planet.com/
-status: up
-code: 200
-responseTime: 400
-lastUpdated: 2023-10-08T23:12:23.970Z
+status: down
+code: 502
+responseTime: 189
+lastUpdated: 2023-10-09T06:41:23.630Z
 startTime: 2022-12-29T19:20:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
