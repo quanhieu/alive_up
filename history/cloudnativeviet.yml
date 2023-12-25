@@ -1,7 +1,7 @@
 url: https://www.cloudnativeviet.net/documents/kubernetes/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-25T05:59:15.863Z
+status: up
+code: 200
+responseTime: 434
+lastUpdated: 2023-12-25T06:19:35.163Z
 startTime: 2022-12-30T08:52:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
