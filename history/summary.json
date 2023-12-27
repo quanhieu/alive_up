@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2023-12-27": 648,
+      "2023-12-27": 667,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -525,7 +525,7 @@
     "timeMonth": 0,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2023-12-27": 648,
+      "2023-12-27": 667,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -822,7 +822,7 @@
     "uptime": "78.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.70%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "78.99%",
     "time": 658,
     "timeDay": 306,
@@ -997,7 +997,7 @@
     "uptime": "73.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.86%",
+    "uptimeMonth": "88.91%",
     "uptimeYear": "73.69%",
     "time": 206,
     "timeDay": 123,
@@ -1915,7 +1915,7 @@
     "uptime": "76.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.12%",
+    "uptimeMonth": "24.07%",
     "uptimeYear": "76.96%",
     "time": 1930,
     "timeDay": 1223,
@@ -1923,7 +1923,7 @@
     "timeMonth": 1220,
     "timeYear": 1930,
     "dailyMinutesDown": {
-      "2023-12-27": 649,
+      "2023-12-27": 668,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -2151,7 +2151,7 @@
     "timeMonth": 0,
     "timeYear": 2209,
     "dailyMinutesDown": {
-      "2023-12-27": 649,
+      "2023-12-27": 669,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -2338,7 +2338,7 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2023-12-27": 649,
+      "2023-12-27": 669,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -2416,7 +2416,7 @@
     "timeMonth": 0,
     "timeYear": 4198,
     "dailyMinutesDown": {
-      "2023-12-27": 649,
+      "2023-12-27": 669,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -2920,7 +2920,7 @@
     "uptime": "76.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.12%",
+    "uptimeMonth": "24.07%",
     "uptimeYear": "76.96%",
     "time": 1930,
     "timeDay": 1223,
@@ -2928,7 +2928,7 @@
     "timeMonth": 1220,
     "timeYear": 1930,
     "dailyMinutesDown": {
-      "2023-12-27": 650,
+      "2023-12-27": 669,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -3213,11 +3213,11 @@
     "url": "http://fansub.kokocon.net/",
     "icon": "https://icons.duckduckgo.com/ip3/fansub.kokocon.net.ico",
     "slug": "kokocon",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "98.94%",
     "time": 521,
     "timeDay": 1081,
@@ -3225,6 +3225,7 @@
     "timeMonth": 1298,
     "timeYear": 521,
     "dailyMinutesDown": {
+      "2023-12-27": 13,
       "2023-11-27": 971,
       "2023-10-28": 1072,
       "2023-10-27": 844,
@@ -3234,7 +3235,7 @@
       "2023-09-21": 395,
       "2023-09-20": 484,
       "2023-09-19": 515,
-      "2023-09-18": 228
+      "2023-09-18": 212
     }
   },
   {
@@ -3350,7 +3351,7 @@
     "uptime": "84.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.50%",
+    "uptimeMonth": "31.54%",
     "uptimeYear": "84.09%",
     "time": 1770,
     "timeDay": 538,
@@ -3688,7 +3689,7 @@
     "timeMonth": 0,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2023-12-27": 651,
+      "2023-12-27": 670,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -3841,7 +3842,7 @@
     "uptime": "77.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "34.79%",
+    "uptimeMonth": "34.74%",
     "uptimeYear": "77.00%",
     "time": 523,
     "timeDay": 0,
@@ -3849,7 +3850,7 @@
     "timeMonth": 634,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2023-12-27": 651,
+      "2023-12-27": 670,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -3978,11 +3979,11 @@
     "url": "https://tracker.kokocon.net/",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.kokocon.net.ico",
     "slug": "kokocon",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "98.94%",
     "time": 521,
     "timeDay": 1081,
@@ -3990,6 +3991,7 @@
     "timeMonth": 1298,
     "timeYear": 521,
     "dailyMinutesDown": {
+      "2023-12-27": 14,
       "2023-11-27": 971,
       "2023-10-28": 1072,
       "2023-10-27": 844,
@@ -3999,7 +4001,7 @@
       "2023-09-21": 395,
       "2023-09-20": 484,
       "2023-09-19": 515,
-      "2023-09-18": 228
+      "2023-09-18": 212
     }
   },
   {
@@ -4032,7 +4034,7 @@
     "uptime": "96.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "96.19%",
     "time": 2166,
     "timeDay": 1939,
@@ -4096,7 +4098,7 @@
     "timeMonth": 84,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2023-12-27": 651,
+      "2023-12-27": 671,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -4524,11 +4526,11 @@
     "url": "http://kokocon.net/",
     "icon": "https://icons.duckduckgo.com/ip3/kokocon.net.ico",
     "slug": "kokocon",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "98.89%",
     "uptimeYear": "98.94%",
     "time": 521,
     "timeDay": 1081,
@@ -4536,6 +4538,7 @@
     "timeMonth": 1298,
     "timeYear": 521,
     "dailyMinutesDown": {
+      "2023-12-27": 14,
       "2023-11-27": 971,
       "2023-10-28": 1072,
       "2023-10-27": 844,
@@ -4545,7 +4548,7 @@
       "2023-09-21": 395,
       "2023-09-20": 484,
       "2023-09-19": 515,
-      "2023-09-18": 228
+      "2023-09-18": 212
     }
   },
   {
@@ -4553,19 +4556,18 @@
     "url": "https://mangochan.site/",
     "icon": "https://icons.duckduckgo.com/ip3/mangochan.site.ico",
     "slug": "hako-re",
-    "status": "down",
+    "status": "up",
     "uptime": "88.99%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "97.58%",
-    "uptimeMonth": "96.55%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "88.99%",
-    "time": 439,
-    "timeDay": 1029,
-    "timeWeek": 1558,
-    "timeMonth": 1103,
-    "timeYear": 439,
+    "time": 440,
+    "timeDay": 1135,
+    "timeWeek": 1562,
+    "timeMonth": 1109,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2023-12-27": 4,
       "2023-12-26": 16,
       "2023-12-24": 67,
       "2023-12-23": 136,
@@ -4643,7 +4645,7 @@
       "2023-07-29": 884,
       "2023-07-28": 854,
       "2023-07-27": 620,
-      "2023-07-26": 180
+      "2023-07-26": 196
     }
   },
   {
@@ -4709,7 +4711,7 @@
     "timeMonth": 80,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-12-27": 652,
+      "2023-12-27": 671,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
